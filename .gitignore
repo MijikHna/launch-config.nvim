@@ -1,0 +1,8 @@
+# directories
+.nvim/
+
+# files
+.fuse_hidden*
+
+# other
+NOTES.md
